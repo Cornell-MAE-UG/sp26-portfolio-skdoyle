@@ -104,12 +104,14 @@ footer {
 .project-image {
   float: left;
   margin: 20px 25px 25px 0;
-  max-width: 200px;
+  max-width: 550px;
   vertical-align: top;
 }
 
+.project-image.large { max-width: 550px; }
+
 .inline-image {
-  max-width: 350px;
+  max-width: 550px;
   margin: 0px 25px 15px 25px;
   vertical-align: top;
 
