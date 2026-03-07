@@ -12,13 +12,11 @@ description: Class project with Graphs
 technologies: [MATLAB, python]
  
 
----
 # Nutcracker Lever Design Project
 
 ## Overview
 This project designs a simple hand-operated lever nutcracker capable of cracking a macadamia nut using average human grip strength. The design uses statics and mechanical advantage to determine the required handle length and the distance between the hinge and the nut.
 
----
 
 ## 1. Problem Statement and Objective ("Find")
 
@@ -30,7 +28,6 @@ The goal is to determine:
 • the required handle length  
 • whether average human grip strength is sufficient to crack the nut  
 
----
 
 ## 2. Constraints and Input Parameters ("Given")
 
@@ -49,7 +46,6 @@ Rounded design value:
 
 FN ≈ 2300 N
 
----
 
 ### Nut Geometry
 
@@ -63,7 +59,6 @@ Radius:
 
 The nut is assumed to sit symmetrically between the two jaws of the nutcracker.
 
----
 
 ### Human Grip Strength
 
@@ -88,7 +83,6 @@ The cracking force is also split between the jaws:
 
 FNU = FNL = 1150 N
 
----
 
 ## 3. Approach to the Problem
 
@@ -108,7 +102,6 @@ Rearranging:
 
 FN / FG = |AG| / |AN|
 
----
 
 ### Mechanical Advantage
 
@@ -123,7 +116,6 @@ Therefore the nutcracker must provide a mechanical advantage of approximately:
 
 MA = 6.57
 
----
 
 ### Selecting Nut Position
 
@@ -140,7 +132,6 @@ Rounded for design:
 
 |AG| ≈ 350 mm
 
----
 
 ### Handle Length Calculation
 
@@ -184,7 +175,6 @@ This design is practical because the long handles create a mechanical advantage 
 • shaped grooves to hold the nut securely  
 • curved handles for better ergonomics  
 
----
 
 ## Final Design Summary
 
@@ -194,7 +184,6 @@ Mechanical advantage: 6.57
 Distance from hinge to nut: 50 mm  
 Handle length: ~363 mm  
 
----
 
 ## Conclusion
 
