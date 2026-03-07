@@ -5,7 +5,6 @@ technologies: N/A
 image: <img width="443" height="284" alt="Screenshot 2026-03-07 at 11 54 26 AM" src="https://github.com/user-attachments/assets/12cb675c-33e6-4b1d-8b13-bc67ff39bcb7" />
 ---
 
----
 layout: project
 title: Analysis of Functions
 description: Class project with Graphs
@@ -87,6 +86,7 @@ FNU = FNL = 1150 N
 ## 3. Approach to the Problem
 
 The nutcracker is modeled as a simple lever rotating about the hinge.
+
 
 ### Moment Balance
 
