@@ -2,7 +2,7 @@
 layout: project
 title: Nutcracker Project
 technologies: N/A
-image: <img src="{{ site.baseurl }}/assets/images/2026.pdf" width="600" />
+image: <img src="{{ site.baseurl }}/assets/images/2026.jpg" width="600" />
 ---
  
 # Nutcracker Lever Design Project
