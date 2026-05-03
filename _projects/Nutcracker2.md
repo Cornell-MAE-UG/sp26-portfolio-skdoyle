@@ -1,3 +1,10 @@
+---
+layout: project
+title: Nutcracker Project
+technologies: N/A
+image: <img width="443" height="284" alt="Screenshot 2026-05-02 at 5.22.08 PM" src="https://github.com/user-attachments/assets/12cb675c-33e6-4b1d-8b13-bc67ff39bcb7" />
+---
+
 # Part 2
 
 # Nutcracker Handle Beam Design
