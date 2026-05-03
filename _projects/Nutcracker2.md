@@ -145,7 +145,7 @@ This satisfies the requirement.
 
 
 ## 4. Final Beam Design
-<img src="/sp26-portfolio-skdoyle/assets/images/nutcracker-work.jpg" width="600" />
+image: /assets/images/nutcracker-work.jpg
 
 Material:
 
