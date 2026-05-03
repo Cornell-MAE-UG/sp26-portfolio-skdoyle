@@ -146,7 +146,7 @@ Using the dimensions in the design sketch:
 |AB| ≈ 363.46 mm
 
 
-## 5. Usability of the Design
+## 4. Usability of the Design
 
 This design is practical because the long handles create a mechanical advantage that multiplies the user's applied force, allowing an average person to crack a macadamia nut.
 
