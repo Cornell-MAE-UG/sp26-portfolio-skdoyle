@@ -2,7 +2,7 @@
 layout: project
 title: Nutcracker Project Part 2
 technologies: N/A
-image: <img src="{{ site.baseurl }}/assets/images/Note-May-2,-2026.pdf" width="600" />'
+image: <img src="{{ site.baseurl }}/assets/images/Note-May-2,-2026.pdf" width="600" />
 ---
 
 # Part 2
