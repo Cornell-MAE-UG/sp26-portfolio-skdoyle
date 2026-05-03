@@ -2,7 +2,7 @@
 layout: project
 title: Nutcracker Project
 technologies: N/A
-image: <a href="{{ site.baseurl }}/assets/images/Note-May-2,-2026.pdf">View Design PDF</a>
+image: <img src="{{ site.baseurl }}/assets/images/2026.pdf" width="600" />
 ---
  
 # Nutcracker Lever Design Project
