@@ -1,8 +1,9 @@
 ---
 layout: project
-title: Nutcracker Project
+title: Nutcracker Project Part 2
 technologies: N/A
-image: <img width="443" height="284" alt="Screenshot 2026-05-02 at 5.22.08 PM" src="https://github.com/user-attachments/assets/12cb675c-33e6-4b1d-8b13-bc67ff39bcb7" />
+image: <img width="1070" height="368" alt="Screenshot 2026-05-02 at 5 22 08 PM" src="https://github.com/user-attachments/assets/1c3bf476-876a-4f12-923b-aac8dd7fe8fe" />
+
 ---
 
 # Part 2
