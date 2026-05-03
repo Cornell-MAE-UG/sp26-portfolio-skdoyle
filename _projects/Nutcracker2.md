@@ -2,6 +2,7 @@
 layout: project
 title: Nutcracker Project Part 2
 technologies: N/A
+permalink: /nutcracker2/
 image: <img width="1070" height="368" alt="Screenshot 2026-05-02 at 5 22 08 PM" src="https://github.com/user-attachments/assets/1c3bf476-876a-4f12-923b-aac8dd7fe8fe" />
 
 ---
