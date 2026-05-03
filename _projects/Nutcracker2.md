@@ -145,6 +145,7 @@ This satisfies the requirement.
 
 
 ## 4. Final Beam Design
+<img src="{{ site.baseurl }}/assets/images/2026.jpg" width="600" />
 
 Material:
 
