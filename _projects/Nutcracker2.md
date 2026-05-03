@@ -5,7 +5,6 @@ technologies: N/A
 image: <img src="{{ site.baseurl }}/assets/images/Note-May-2,-2026.pdf" width="600" />
 ---
 
-# Part 2
 
 # Nutcracker Handle Beam Design
 
