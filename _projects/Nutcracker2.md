@@ -145,7 +145,7 @@ This satisfies the requirement.
 
 
 ## 4. Final Beam Design
-/assets/images/nutcracker-work.jpg
+/assets/images/2026.jpg
 
 Material:
 
